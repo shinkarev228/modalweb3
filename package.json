@@ -3,3 +3,4 @@
   "version": "1.0.5",
   "description": "A single Web3 / Ethereum provider solution for all Wallets",
   "main": "./src/Web3ModalVue.vue",
+  "keywords": [
