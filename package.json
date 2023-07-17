@@ -4,3 +4,6 @@
   "description": "A single Web3 / Ethereum provider solution for all Wallets",
   "main": "./src/Web3ModalVue.vue",
   "keywords": [
+  "web3",
+    "web3vue",
+    "crypto",
