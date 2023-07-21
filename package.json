@@ -27,3 +27,5 @@
   "license": "MIT",
   "homepage": "https://github.com/SmallRuralDog/web3modal-vue",
   "repository": {
+    "type": "git",
+    "url": "https://github.com/SmallRuralDog/web3modal-vue.git"
