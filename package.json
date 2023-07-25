@@ -34,3 +34,4 @@
    "url": "https://github.com/SmallRuralDog/web3modal-vue/issues"
   },
   "dependencies": {
+    "detect-browser": "^5.2.0",
