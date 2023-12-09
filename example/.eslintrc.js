@@ -8,3 +8,4 @@ module.exports = {
         'eslint:recommended'
     ],
     parserOptions: {
+        parser: 'babel-eslint'
